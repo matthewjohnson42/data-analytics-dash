@@ -1,2 +1,2 @@
-# data-analytics-dash-server
+# data-analytics-dash
 A dash instance serving data analytics
